@@ -6,7 +6,7 @@ namespace ChristmasWithTypes
     {
         static void Main(string[] args)
         {
-            var xmas = new Christmas(4);
+            var xmas = new Christmas();
 
             var xmasDay = Christmas.Day.Thursday;
 
